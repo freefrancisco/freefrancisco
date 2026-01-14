@@ -3,7 +3,9 @@
 Welcome to Francisco's Github of pleasure and sin! 
 
 This is where I play around with technology that I find interesting. 
-Right now that is mostly Haskell, machine learning, LLMs, GPTs, NLP, prompt engineering, and Julia. 
+Right now that is mostly Haskell, Python, Julia, machine learning, LLMs, GPTs, NLP, swift, and some web stuff. 
+
+If you want to know what I have been doing, [Talk to my professional GPT](https://chatgpt.com/g/g-G95iwMIMs-francisco-professional-gpt)
 
 <!--
 **freefrancisco/freefrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
