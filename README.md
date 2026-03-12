@@ -1,5 +1,11 @@
 ### Hi, I'm Francisco
 
+Founder of [Miami Beach Labs](https://github.com/miamibeachlabs)
+
+Website: https://www.miamibeachlabs.com
+
+--- 
+
 Welcome to Francisco's GitHub of pleasure and sin! 
 
 
@@ -9,18 +15,18 @@ I build strange things at the intersection of functional programming, machine le
 Main tools: Haskell, Python, Julia, LLMs. 
 
 
-Founder, [Miami Beach Labs](https://github.com/miamibeachlabs)
 
-Website: https://www.miamibeachlabs.com
+This GitHub is my **personal playground**. 
 
+Research and engineering happen at Miami Beach Labs. 
 
-This is where I experiment with ideas that interest me, especially functional programming, machine learning, language models, and mathematical approaches to software.
-
+Explorations and experiments live here.
 
 Many repos are small explorations, sketches, or unfinished experiments rather than polished libraries.
 
 
 If you want a tour of what I've been working on recently: 
+
 [Talk to my professional GPT](https://chatgpt.com/g/g-G95iwMIMs-francisco-professional-gpt)
 
 <!--
