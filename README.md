@@ -9,7 +9,9 @@ I build strange things at the intersection of functional programming, machine le
 Main tools: Haskell, Python, Julia, LLMs. 
 
 
-Founder, [Miami Beach Labs](https://www.miamibeachlabs.com)
+Founder, [Miami Beach Labs](https://github.com/miamibeachlabs)
+
+Website: https://www.miamibeachlabs.com
 
 
 This is where I experiment with ideas that interest me, especially functional programming, machine learning, language models, and mathematical approaches to software.
