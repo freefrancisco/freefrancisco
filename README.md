@@ -1,11 +1,21 @@
-### Hi there 👋
+### Hi, I'm Francisco
+
+I build strange things at the intersection of functional programming, machine learning, and AI. 
+
+Main tools: Haskell, Python, Julia, LLMs. 
+Founder of [Miami Beach Labs](https://www.miamibeachlabs.com)
+
+---
+
 
 Welcome to Francisco's Github of pleasure and sin! 
 
-This is where I play around with technology that I find interesting. 
-Right now that is mostly Haskell, Python, Julia, machine learning, LLMs, GPTs, NLP, swift, and some web stuff. 
+This is where I experiment with ideas that interest me, especially functional programming, machine learning, language models, and mathematical approaches to software.
 
-If you want to know what I have been doing, [Talk to my professional GPT](https://chatgpt.com/g/g-G95iwMIMs-francisco-professional-gpt)
+Many repos are small explorations, sketches, or unfinished experiments rather than polished libraries.
+
+If you want a tour of what I've been working on recently: 
+[Talk to my professional GPT](https://chatgpt.com/g/g-G95iwMIMs-francisco-professional-gpt)
 
 <!--
 **freefrancisco/freefrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
