@@ -25,7 +25,7 @@ Explorations and experiments live here.
 Many repos are small explorations, sketches, or unfinished experiments rather than polished libraries.
 
 
-If you want a tour of what I've been working on recently: 
+If you want to interrogate my interests in programming, AI, mathematics, and other strange ideas: 
 
 [Talk to my professional GPT](https://chatgpt.com/g/g-G95iwMIMs-francisco-professional-gpt)
 
